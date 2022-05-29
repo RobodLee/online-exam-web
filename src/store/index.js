@@ -31,8 +31,8 @@ const state = {
         // {item2: '所有题库', path: '/selectAnswer'},
         // {item3: '增加题库', path: '/addAnswer'},
         {item: '功能介绍', path: '/answerDescription'},
-        {item: '所有题库', path: '/selectAnswer'},
-        {item: '增加题库', path: '/addAnswer'},
+        {item: '所有题库', path: '/selectQuestion'},
+        {item: '增加题库', path: '/addQuestion'},
         {path: '/addAnswerChildren'}
       ],
     },
